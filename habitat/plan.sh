@@ -1,4 +1,4 @@
-pkg_origin=core
+pkg_origin=mendedlink_private
 pkg_name=vault
 pkg_version=0.9.1
 pkg_description="A tool for managing secrets."
